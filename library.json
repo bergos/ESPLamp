@@ -1,0 +1,10 @@
+{
+  "name": "ESPLamp",
+  "keywords": "esp, lamp",
+  "description": "ESP8266 lamp framework",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bergos/ESPLamp.git"
+  },
+  "frameworks": "arduino"
+}
